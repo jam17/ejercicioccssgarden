@@ -1,0 +1,56 @@
+body {
+	background-color: #CEE3F6;
+}
+
+
+
+div h1{
+
+color: green;
+font-size: 50px;
+font-weight: 500px;
+text-align: center;
+
+
+}
+h2{
+	color: green;
+font-size: 30px;
+font-weight: 400px;
+margin-left: 30px;
+text-align: justify;
+}
+
+h3{
+
+	color:blue;
+	font-size: 35px;
+	font-weight:400px;
+	text-align: center;
+	}
+
+p{
+	color:#0431B4;
+	font-family: arial;
+	font-size:20px;
+	text-align: justify;
+	margin:30px;
+
+}
+ul li{
+	font-size: 20px;
+	font-style: italic;
+}
+.select{
+	text-align: left;
+
+}
+.archives{
+	text-align: left;
+}
+.resources{
+	text-align: left;
+}
+footer{
+	margin-left: 30px;
+}
